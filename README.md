@@ -13,7 +13,7 @@ I also write from time to time about insights and how they get derived at [Persp
 ### Currently
 
 - Running Kudare, doing interesting work for cool-ass clients
-- Cleaning up the useful parts of my setup to put here, mostly because it forces me to simplify them
+- Figuring out which parts of market intelligence a machine can speed up, and which parts still need a human to notice something
 - Chasing around three small humans under 5, and loving it
 
 ---
