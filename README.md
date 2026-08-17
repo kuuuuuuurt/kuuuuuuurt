@@ -1,6 +1,6 @@
 <h1>I'm Kurt</h1>
 
-**I run [Kudare](https://kudare.co), an independent strategic consulting practice.** Product & customer research, brand & PMM, and data-informed thinking to inform decisions senior leaders can't afford to get wrong.
+**I run ∴ [Kudare](https://kudare.co), an independent strategic consulting practice.** Product & customer research, brand & PMM, and data-informed thinking to inform decisions senior leaders can't afford to get wrong.
 
 Brand nerd. Building systems for fun. Forever curious about people, but also commercially minded. Energized by change.
 
