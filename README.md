@@ -4,7 +4,7 @@
 
 Brand nerd. Building systems for fun. Forever curious about people, but also commercially minded. Energized by change.
 
-**I'm not an engineer.** But I did have a pretty impressive custom MySpace page (if i do say so myself), and these days I run lots of the back office of my consulting practice with my buddy Claude Code.
+**I'm not an engineer.** But I did have a snazzy MySpace page (if i do say so myself), and these days I run lots of the back office of my consulting practice with my buddy Claude Code.
 
 I also write from time to time about insights and how they get derived at [Perspicacity](https://perspicacity.kudare.co).. yaya *another* substack.
 
@@ -12,9 +12,9 @@ I also write from time to time about insights and how they get derived at [Persp
 
 ### Currently
 
-- Running Kudare, doing interesting work for cool-ass clients
-- Figuring out which parts of market intelligence a machine can speed up, and which parts still need a human to notice something
-- Chasing around three small humans under 5, and loving it
+- running & growing Kudare, doing interesting work for cool-ass clients
+- figuring out decomposition for a speedier market intel workflow that doesn't lose the magic of human insight
+- chasing around three small humans under 5, and loving it every dang snotty second of it
 
 ---
 
