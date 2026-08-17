@@ -2,7 +2,7 @@
 
 **I run [Kudare](https://kudare.co), an independent strategic consulting practice.** Product & customer research, brand & PMM, and data-informed thinking to inform decisions senior leaders can't afford to get wrong.
 
-Brand nerd. Building systems for fun. Forever curious about people, but also commercially minded. Energized by change. **I'm not an engineer.** I run lots of the back office of my practice on Claude Code: a morning brief to my inbox, a CRM that auto-updates itself no matter the touchpoint (including iMessage), a weekly review that argues with me about my business (it pushes my buttons occasionally, but worth it). I also write from time to time about insights and how they get derived at [Perspicacity](https://perspicacity.kudare.co).. yaya *another* substack.
+Brand nerd. Building systems for fun. Forever curious about people, but also commercially minded. Energized by change. **I'm not an engineer.** But I did have a pretty impressive custom MySpace page (if i do say so myself), and these days I run lots of the back office of my consulting practice with my buddy Claude Code. I also write from time to time about insights and how they get derived at [Perspicacity](https://perspicacity.kudare.co).. yaya *another* substack.
 
 ---
 
